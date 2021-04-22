@@ -7,17 +7,14 @@ I basically develop things in .NET and also have knowledge in PHP, NodeJS and Py
 
 - 🔭 I’m currently working on [Vault](https://www.vaultproject.io/)
 - 🌱 I’m currently learning [Blazor](https://dotnet.microsoft.com/apps/aspnet/web-apps/blazor)
-- 👽 Next one will be [Keycloak](https://www.keycloak.org/)
-- 💬 Ask me about ...
-- 📫 How to reach me:
-- - [E-mail](mailto:pablobozzi@gmail.com)
-- - [LinkedIn](https://www.linkedin.com/in/pbfoliveira)
+- 👽 Next one going to be [Keycloak](https://www.keycloak.org/)
+- 💬 Ask me about ... forget it.
 - 😄 Pronouns: what?!
 - ⚡ Fun fact: I have a pet named Black Pearl (inspired by that Johnny Depp's boat). A jealous and invoked black toy poodle 🐩!
 
 ----
 
-### Find me  🌎
+### Find me 🌎
 
 ✉️ [E-mail](mailto:pablobozzi@gmail.com) <br>
 💼 [LinkedIn](https://www.linkedin.com/in/pbfoliveira) <br>
